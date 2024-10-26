@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "tmenv"
+  site-url: "https://trackmania-ai.github.io/tmenv/"
+  description: "Trackmania 2020 gym like environment for reinforcement learning"
+  repo-branch: master
+  repo-url: "https://github.com/trackmania-ai/tmenv/tree/master/"
